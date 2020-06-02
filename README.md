@@ -34,13 +34,10 @@ Agora que você já está com o template clonado e pronto para continuar, você 
 
 ### Resultados
 
-<h1 align="left">
-  <img alt="Results1" title="gomarketplace1" src=".github/dashboard.jpg" width="500px" style="border-radius:100px"/>
-</h1>
-
-<h1 align="right">
-  <img alt="Results2" title="gomarketplace2" src=".github/carrinho.jpg" width="500px" style="border-radius:100px"/>
-</h1>
+<p align="center">
+  <img alt="Results1" title="gomarketplace1" src=".github/dashboard.jpg" width="250px"/>
+  <img alt="Results2" title="gomarketplace2" src=".github/carrinho.jpg" width="250px"/>
+</p>
 
 ## :memo: Licença
 
